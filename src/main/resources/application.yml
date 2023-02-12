@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/simple_survey
+    username: postgres
+    password: jooker131
+  liquibase:
+    enabled: false
